@@ -1,0 +1,8 @@
+kickstart_template = "centos7-ks.tmpl"
+kickstart_filename = "centos7-ks.cfg"
+json_filename = "centos-7-server-x86_64.json"
+ssh_username = "root"
+ssh_password = "Tech:97!"
+iso_url = "http://mirror.cs.pitt.edu/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1908.iso"
+iso_checksum = "9a2c47d97b9975452f7d582264e9fc16d108ed8252ac6816239a3b58cef5c53d"
+iso_checksum_type = "sha256"
